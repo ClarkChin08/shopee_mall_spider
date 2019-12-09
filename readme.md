@@ -8,21 +8,21 @@
 
 **brands**: the information of brand 
 
-![image-20191209205056017](C:\Users\hxx\iCloudDrive\Github\shopee_mall_spider\doc\typora-user-images\image-20191209205056017.png)
+![image-20191209205056017](doc\typora-user-images\image-20191209205056017.png)
 
 **shops**: the information of shops
 
-![image-20191209205338174](C:\Users\hxx\iCloudDrive\Github\shopee_mall_spider\doc\typora-user-images\image-20191209205338174.png)
+![image-20191209205338174](doc\typora-user-images\image-20191209205338174.png)
 
-![image-20191209205421443](C:\Users\hxx\iCloudDrive\Github\shopee_mall_spider\doc\typora-user-images\image-20191209205421443.png)
+![image-20191209205421443](doc\typora-user-images\image-20191209205421443.png)
 
 **items**: the information of item
 
-![image-20191209205527182](C:\Users\hxx\iCloudDrive\Github\shopee_mall_spider\doc\typora-user-images\image-20191209205527182.png)
+![image-20191209205527182](doc\typora-user-images\image-20191209205527182.png)
 
-![image-20191209205633825](C:\Users\hxx\iCloudDrive\Github\shopee_mall_spider\doc\typora-user-images\image-20191209205633825.png)
+![image-20191209205633825](doc\typora-user-images\image-20191209205633825.png)
 
-![image-20191209205718388](C:\Users\hxx\iCloudDrive\Github\shopee_mall_spider\doc\typora-user-images\image-20191209205718388.png)
+![image-20191209205718388](doc\typora-user-images\image-20191209205718388.png)
 
 #### requirement
 
